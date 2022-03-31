@@ -6,17 +6,15 @@
 
 ### O projeto é simples e consiste em criar 3 cards com um plano fictício de uma assinatura fictícia, com a possibilidade de alterar entre o preço mensal e anual do plano.
 
-<br/>
 
 ### As tecnologias usadas foram:
 
 ### **React** e **CSS**
 
-<br/>
 
 ### Para iniciar o projeto
 
-#### _npm start_ ou _yarn start_
+#### - _npm start_ ou _yarn start_
 
 <br/>
 
