@@ -171,17 +171,35 @@ input:checked[type="checkbox"]:before {
 }
 
 @media (max-width: 603px) {
+  .align-items-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .plan-price{
-    font-size: 40px;
+    font-size: 38px;
   }
 }
 
 @media (max-width: 478px) {
+  .align-items-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .plan-price{
     font-size: 36px;
   }
 }
 @media (max-width: 431px) {
+  .align-items-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .plan-price{
     font-size: 28px;
   }
@@ -191,6 +209,12 @@ input:checked[type="checkbox"]:before {
 
 }
 @media (max-width: 367px){
+  .align-items-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .plan-price{
     font-size: 24px;
   }
@@ -199,6 +223,12 @@ input:checked[type="checkbox"]:before {
   } 
 }
 @media (max-width: 375px) {
+  .align-items-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .plan-price{
     font-size: 22px;
   }
