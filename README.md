@@ -1,27 +1,26 @@
-# Este projeto foi um desafio disponibilizado pela plataforma Frontend Mentor
+## Este projeto foi um desafio disponibilizado pela plataforma Frontend Mentor
 
-![Project Final Design](/toreact/public/projectprint.png)
+![Project final Design Image]()
 
-# Sobre o projeto
 
-### O projeto é simples e consiste em criar 3 cards com um plano fictício de uma assinatura fictícia, com a possibilidade de alterar entre o preço mensal e anual do plano.
+## Sobre o projeto
+
+O projeto é simples e consiste em criar 3 cards com um plano fictício de uma assinatura fictícia, com a possibilidade de alterar entre o preço mensal e anual do plano.
 
 
 ### As tecnologias usadas foram:
-
-### **React** e **CSS**
+- React e CSS
 
 
 ### Para iniciar o projeto
 
-#### - _npm start_ ou _yarn start_
+- npm start ou yarn start
 
-<br/>
-
-#### Link da plataforma
+### Links
+##### Link da plataforma
 
 https://www.frontendmentor.io/challenges
 
-#### Link do desafio na plataforma
+##### Link do desafio na plataforma
 
 https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC
