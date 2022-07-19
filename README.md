@@ -18,6 +18,8 @@ O projeto é simples e consiste em criar 3 cards com um plano fictício de uma a
 - npm start ou yarn start
 
 ### Links
+#### Link do app funcionando: https://pricingcomponent.herokuapp.com/
+##### obs: o app pode demorar alguns segundos para inicializar no site!
 ##### Link da plataforma
 
 https://www.frontendmentor.io/challenges
