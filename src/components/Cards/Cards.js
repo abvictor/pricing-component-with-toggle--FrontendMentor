@@ -12,13 +12,13 @@ export default function Cards() {
     setRadioState(radioState === "Monthly" ? "Annually" : "Monthly");
 
     if (radioState === "Monthly") {
-      setBasicPlan(Math.floor(basicPlan / 12) + ".99");
-      setAdvancedPlan(Math.floor(advancedPlan / 12) + ".99");
-      setBusinessPlan(Math.floor(businessPlan / 12) + ".99");
+      setBasicPlan(Math.floor(basicPlan / 12).toFixed(2));
+      setAdvancedPlan(Math.floor(advancedPlan / 12).toFixed(2));
+      setBusinessPlan(Math.floor(businessPlan / 12).toFixed(2));
     } else {
-      setBasicPlan(29.99);
-      setAdvancedPlan(59.99);
-      setBusinessPlan(79.99);
+      setBasicPlan(19.99);
+      setAdvancedPlan(24.99);
+      setBusinessPlan(39.99);
     }
   }
 
